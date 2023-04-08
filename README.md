@@ -27,12 +27,12 @@ A video of this approach can be watched at [Youtube](https://youtu.be/xfsU_cCLpF
 ## Reference
 If you use any of data or code, please cite the following reference:
 
-Cabrera-Ponce, A.A., Marin-Ortiz, Manuel & Martinez-Carranza, J. (2023). Continual Learning for Topological Geo-localisation. Journal of Intelligent Fuzzy Systems.
+Cabrera-Ponce, A. A., Martin-Ortiz, M., & Martinez-Carranza, J. "Continual Learning for Topological Geo-localisation", Journal of Intelligent Fuzzy Systems, 2023.
 
 
 ## Related References
 
-- Cabrera-Ponce, A. A., Martin-Ortiz, M., & Martinez-Carranza, J. (2022). Multi-Model Continual Learning for Camera Localisation from Aerial Images. 13th  international micro air vehicle conference, Delft, the Netherlands, 2022, p. 103–109. https://www.imavs.org/papers/2022/12.pdf
+- Cabrera-Ponce, A. A., Martin-Ortiz, M., & Martinez-Carranza, J. "Multi-Model Continual Learning for Camera Localisation from Aerial Images", 13th  international micro air vehicle conference, Delft, the Netherlands, 2022, p. 103–109. https://www.imavs.org/papers/2022/12.pdf
 
 ```
 @inproceedings{imav2022-12:a_cabreraponce_et_al,
@@ -51,7 +51,7 @@ Cabrera-Ponce, A.A., Marin-Ortiz, Manuel & Martinez-Carranza, J. (2023). Continu
 }
 ```
 
-- Cabrera-Ponce, A. A., & Martinez-Carranza, J. (2022). Convolutional neural networks for geo-localisation with a single aerial image. Journal of Real-Time Image Processing, 19(3), 565-575. https://doi.org/10.1007/s11554-022-01207-1
+- Cabrera-Ponce, A. A., & Martinez-Carranza, J. "Convolutional neural networks for geo-localisation with a single aerial image", Journal of Real-Time Image Processing, 2022, 19(3), 565-575. https://doi.org/10.1007/s11554-022-01207-1
 
 ```
 @article{cabrera2022convolutional,
@@ -66,7 +66,7 @@ Cabrera-Ponce, A.A., Marin-Ortiz, Manuel & Martinez-Carranza, J. (2023). Continu
 }
 ```
 
-- A. A. Cabrera-Ponce and J. Martinez-Carranza, "erial geo-localisation for MAVs using PoseNet," 2019 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED UAS), Cranfield, United Kingdom, 2019, pp. 192-198, doi: 10.1109/REDUAS47371.2019.8999713
+- Cabrera-Ponce, A. A., & Martinez-Carranza, J. "Aerial geo-localisation for MAVs using PoseNet", 2019 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED UAS), Cranfield, United Kingdom, 2019, pp. 192-198, doi: 10.1109/REDUAS47371.2019.8999713
 
 ```
 @inproceedings{cabrera2019aerial,
