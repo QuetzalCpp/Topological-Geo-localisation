@@ -1,0 +1,25 @@
+################################################################################
+# Copyright (c) 2020. Vincenzo Lomonaco, Gabriele Graffieti, Lorenzo           #
+# Pellegrini, Davide Maltoni. All rights reserved.                             #
+# See the accompanying LICENSE file for terms.                                 #
+#                                                                              #
+# Date: 01-04-2020                                                             #
+# Authors: Vincenzo Lomonaco, Gabriele Graffieti, Lorenzo Pellegrini, Davide   #
+# Maltoni.                                                                     #
+# E-mail: vincenzo.lomonaco@unibo.it                                           #
+# Website: vincenzolomonaco.com                                                #
+################################################################################
+
+name: ar1-env
+channels:
+- pytorch
+dependencies:
+- python=3
+- pytorch::pytorch
+- pytorch::torchvision
+- tensorboard
+- tensorflow-gpu
+
+- pip:
+    - pytorchcv
+    - numpy
