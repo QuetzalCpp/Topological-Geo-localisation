@@ -32,6 +32,25 @@ Cabrera-Ponce, A.A., Marin-Ortiz, Manuel & Martinez-Carranza, J. (2023). Continu
 
 ## Related References
 
+- Cabrera-Ponce, A. A., Martin-Ortiz, M., & Martinez-Carranza, J. (2022). Multi-Model Continual Learning for Camera Localisation from Aerial Images. 13th  international micro air vehicle conference, Delft, the Netherlands, 2022, p. 103–109. https://www.imavs.org/papers/2022/12.pdf
+
+```
+@inproceedings{imav2022-12:a_cabreraponce_et_al,
+  author = {Aldrich Alfredo Cabrera-Ponce and Manuel Isidro Martin-Ortiz and Jose Martinez-Carranza},
+  editor = {G. de Croon and C. De Wagter},
+  title = {Multi-Model Continual Learning for Camera Localisation from Aerial Images},
+  year = {2022},
+  month = {Sep},
+  day = {12-16},
+  booktitle = {13$^{th}$ International Micro Air Vehicle Conference},
+  address = {Delft, the Netherlands},
+  pages = {103--109},
+  note = {Paper no. IMAV2022-12},
+  pdf = {http://www.imavs.org/papers/2022/12.pdf},
+  url = {http://www.imavs.org/papers/2022/12.pdf}
+}
+```
+
 - Cabrera-Ponce, A. A., & Martinez-Carranza, J. (2022). Convolutional neural networks for geo-localisation with a single aerial image. Journal of Real-Time Image Processing, 19(3), 565-575. https://doi.org/10.1007/s11554-022-01207-1
 
 ```
