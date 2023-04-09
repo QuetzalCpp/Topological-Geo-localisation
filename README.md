@@ -9,7 +9,7 @@ Geo-localisation from a single aerial image for Uncrewed Aerial Vehicles (UAVs) 
 The continual learning approach consists of 3 steps: 1) Mini-batches generation during the UAV's flight; 2) Continual training using previous mini-batches while new ones are created; 3) Model and multi-model evaluation to classify the current aerial image and get a flight coordinate in a sub-mapping fashion. We use a keyframe search based on a colour histogram to identify the corresponding model in a multi-model approach.
 
 ## Video
-A video of this approach can be watched at [Youtube](https://youtu.be/xfsU_cCLpFw)
+A video of this approach can be watched at [Youtube](https://youtu.be/6f4H1RcfNfE)
 
 ## Recommended system
 - Ubuntu 20.04
